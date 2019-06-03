@@ -10,7 +10,7 @@
 
 ⚜¦ انسخ رابط كيثاب السورس  ↡
 
-git clone https://github.com/NOVAR1/STORM.git; cd STORM;chmod +x tg;chmod +x STORM.sh;chmod +x SM.sh;./STORM.sh
+git clone https://github.com/THEZAIN/STORM.git; cd STORM;chmod +x tg;chmod +x STORM.sh;chmod +x SM.sh;./STORM.sh
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
@@ -42,6 +42,6 @@ rm -rf STORM
 
 ⚜¦ للمزيد من المعلومات راسلنا
 
-💥¦ مطور السورس » [ﺧ̝̚ـڵـۑج̶ــہـۑ_ﺻ̶ــاك](https://telegram.me/TAHAJ20)
+💥¦ مطور السورس » [ﺧ̝̚ـڵـۑج̶ــہـۑ_ﺻ̶ــاك](https://telegram.me/YYBYY)
 
-📯¦ قناة السورس » [ͲЄᗩṀ ṠͲỌᏒṀ](https://telegram.me/STORMCLI)
+📯¦ قناة السورس » [ͲЄᗩṀ ṠͲỌᏒṀ](https://telegram.me/Globla)
